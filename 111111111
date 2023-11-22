@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about</title>
+    <link rel="stylesheet" href="style1.css">
+    <style>
+    .nav-bar{
+    background-color: bisque;
+    color:brown;
+    padding:20px;
+    text-align:center;
+}
+.footer{
+    background-color: black;
+    color:aquamarine;
+    padding:20px;
+    text-align: center;
+    height:100px;
+}
+.content{
+    background-color: cadetblue;
+    padding:20px;
+    margin:10px;
+    height:300px;
+}
+h1{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+</style>
+</head>
+<body>
+    <div class="nav-bar">
+            <a href="">home</a>
+            <a href="">about</a>
+            <a href="">contact</a>
+    </div>
+
+    <div class="contact">
+        <h1>title</h1>
+        <p><span class="bold">ghjhj</span> fjgfhjfghjfgjh</p>
+    </div>
+
+    <div class="footer">
+        contact me
+    </div>
+</body>
+</html>
